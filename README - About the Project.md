@@ -1,4 +1,4 @@
-# Rumspringa Cash Register System — V10.2 Supabase Auth Beta
+# Rumspringa Cash Register System — V10.2 Supabase AUTO SYNC Beta
 
 Complete hybrid Cash Register / POS system developed using pure HTML, CSS, and JavaScript, featuring Offline + Online operation powered by Supabase Auth, PostgreSQL, and automatic multi-device synchronization.
 
