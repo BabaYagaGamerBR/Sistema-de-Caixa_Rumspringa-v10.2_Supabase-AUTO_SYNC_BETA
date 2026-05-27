@@ -1,4 +1,4 @@
-# Sistema de Caixa Rumspringa — V10.2 Supabase Auth Beta
+# Sistema de Caixa Rumspringa — V10.2 Supabase AUTO SYNC Beta
 
 Sistema completo de Caixa / PDV híbrido desenvolvido em HTML, CSS e JavaScript puro, com funcionamento Offline + Online utilizando Supabase Auth, PostgreSQL e sincronização automática multi-dispositivo.
 
